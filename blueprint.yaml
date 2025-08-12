@@ -1,5 +1,5 @@
 blueprint:
-  name: PIN-Keypads for Zigbee2MQTT (Complete with Night Mode)
+  name: PIN-Keypad KEPZB-110 for Zigbee2MQTT
   description: "This Blueprint allows the synchronisation of an alarm control panel with a Zigbee2MQTT keypad. This means that the status of the alarm control panel is transmitted to the keypad and vice versa. Additionally, you can set a custom action for two wrong PINs. This way you can perform actions by entering specific wrong PINs. Includes full support for Night Mode."
   domain: automation
   input:
