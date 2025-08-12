@@ -11,7 +11,7 @@ A comprehensive Home Assistant blueprint that provides full synchronization betw
 - **All arming modes**: Away, Home, Night, and Disarm
 - **No PIN required for arming** - just press the button
 - **PIN required for disarming** - secure authentication
-- **Entry delay beeping** - gentle reminder when entering through doors
+- **Entry delay beeping** - gentle reminder when entering through front door to turn disarm
 - **Custom PIN actions** - trigger special automations with wrong PINs
 - **Panic/SOS support** - emergency button functionality
 
