@@ -1,6 +1,6 @@
 # PIN-Keypads for Zigbee2MQTT (Complete with Night Mode & Entry Delay)
 
-A comprehensive Home Assistant blueprint that provides full synchronization between Zigbee2MQTT keypads and alarm control panels, including complete night mode support and entry delay beeping.
+A comprehensive Home Assistant blueprint that provides full synchronization between Zigbee2MQTT KEPZB-110 keypads and alarm control panels, including complete night mode support and entry delay beeping.
 
 [![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A//github.com/michaeln64/KEPZB-110-BluePrint-Z2M/blob/main/blueprint.yaml)
 
