@@ -290,12 +290,9 @@ action:
               topic: !input 'z2m_keypad_path_set'
               payload: |-
                 {
-                 "warning": 
+                 "arm_mode": 
                   {
-                   "mode": "entry_delay",
-                   "level": "low",
-                   "strobe": false,
-                   "duration": {{ states('input_number.entry_delay_duration') | default(30) }}
+                   "mode": "entry_delay"
                   }
                 }
       - conditions:
