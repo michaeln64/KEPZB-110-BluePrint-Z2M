@@ -276,8 +276,6 @@ The blueprint maintains perfect sync between keypad and Home Assistant:
 - ✅ Added complete night mode support
 - ✅ Added entry delay beeping for KEPZB-110
 - ✅ Removed PIN requirement for arming
-- ✅ Fixed hard-coded entity references
-- ✅ Improved documentation
 
 ### v1.0 (Original)
 - Basic keypad sync
